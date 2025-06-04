@@ -4,3 +4,7 @@ Every Tuesday there's a challenge from the sloth bytes newsletter and I'll post 
 ### 27/05/2025
 
 [The Actual Memory Size of Your USB Flash Drive](https://github.com/mau-estradiote/Sloth-bytes-Weekly-Challenges/tree/main/The%20Actual%20Memory%20Size%20of%20Your%20USB%20Flash%20Drive)
+
+### 03/06/2025
+
+[Next in the alphabet](https://github.com/mau-estradiote/Sloth-bytes-Weekly-Challenges/tree/main/Next%20in%20the%20alphabet)
