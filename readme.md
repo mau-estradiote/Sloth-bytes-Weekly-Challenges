@@ -8,3 +8,11 @@ Every Tuesday there's a challenge from the sloth bytes newsletter and I'll post 
 ### 03/06/2025
 
 [Next in the alphabet](https://github.com/mau-estradiote/Sloth-bytes-Weekly-Challenges/tree/main/Next%20in%20the%20alphabet)
+
+### 10/06/2025
+
+[Factorial of Factorials](https://github.com/mau-estradiote/Sloth-bytes-Weekly-Challenges/tree/main/Factorial%20of%20Factorials)
+
+### 17/06/2025
+
+[Birthday Cake Candles](https://github.com/mau-estradiote/Sloth-bytes-Weekly-Challenges/tree/main/Birthday%20Cake%20Candles)
