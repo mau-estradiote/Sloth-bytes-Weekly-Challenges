@@ -16,3 +16,7 @@ Every Tuesday there's a challenge from the sloth bytes newsletter and I'll post 
 ### 17/06/2025
 
 [Birthday Cake Candles](https://github.com/mau-estradiote/Sloth-bytes-Weekly-Challenges/tree/main/Birthday%20Cake%20Candles)
+
+### 24/06/2025
+
+[Spiral Matrix](https://github.com/mau-estradiote/Sloth-bytes-Weekly-Challenges/tree/main/Spiral%20Matrix)
