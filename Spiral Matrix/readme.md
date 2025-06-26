@@ -4,7 +4,7 @@ This was a pretty hard challenge. I created a method early on, but it took me a 
 let me explain:
 
 The first thing I thought was "how many straight lines does this spiral have?"
-After drawing some matrices I reached the formula for the number N of straight lines in a $m$ x $n$ matrix:\
+After drawing some matrices I reached the formula for the number $N_{m,n}$ of straight lines in a $m$ x $n$ matrix:
 
 ```math
 N_{m,n}=
