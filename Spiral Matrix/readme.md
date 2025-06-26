@@ -6,14 +6,13 @@ let me explain:
 The first thing I thought was "how many straight lines does this spiral have?"
 After drawing some matrices I reached the formula for the number N of straight lines in a $m$ x $n$ matrix:\
 
-$$
-\begin{equation}
-  N_{m,n}=\begin{cases}
-    2m - 1, & \text{if $m<n$}.\\
-    2n, & \text{if $m\geq n$}.
-  \end{cases}
-\end{equation}
-$$
+```math
+N_{m,n}=
+\begin{cases}
+  2m - 1, & \text{if } m \le n \\
+  2n,     & \text{if } m > n
+\end{cases}
+```
 
 I made a for loop that extends a list called `spiral` with elements from 4 different directions, each one corresponding to the outermost side of the matrix (like the sides of a square). After that I reduce the matrix to a smaller $m-2$ x $n-2$ matrix and repeat the process. The problem was in the stop condition. I know that the number of iterations should be `N//4 + 1`, but for some matrices the last iteration isn't a complete square! After struggling a lot I reached a simple solution! Instead of using a lot of if statements (it already has a lot of if statements in the code) I simply build the list with repeated values (for those whose last iteration is less than 4) and return a slice of the list with the correct size `m * n`, which excludes the excess values.
 
